@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <a href="https://github.com/JSergio86/JSergio86/edit/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="">
+  </a>
+</div>
 
 <!--
 **JSergio86/JSergio86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
