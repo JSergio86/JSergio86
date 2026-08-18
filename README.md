@@ -1,3 +1,39 @@
-Soy Sergio Jiménez, un graduado en Desarrollo de Aplicaciones Multiplataforma, con experiencia en Java, bases de datos, hardware, software y desarrollo de aplicaciones móviles.
+# ¡Hola! Soy Sergio Jiménez 👋
 
-Actualmente, trabajo como Helpdesk en Indra, donde doy soporte técnico a los usuarios del ámbito de Justicia, donde resuelvo incidencias de software y hardware. Anteriormente, fui desarrollador de aplicaciones en LGC Ingegneria - Architettura, donde participé en el diseño y desarrollo de una aplicación para dicha empresa subida al Play Store. También fui QA Tester en Abalit Technologies, donde realicé pruebas de calidad y usabilidad de aplicaciones web y móviles. Mi objetivo es seguir creciendo como profesional y aportar valor a las organizaciones con mis conocimientos y habilidades.
+### Junior Software & Cross-Platform Developer 🚀
+Graduado en el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la programación, el diseño de arquitectura backend sólida y el aprendizaje continuo de nuevas tecnologías. Busco mi primera oportunidad profesional o proyectos donde aportar valor, seguir creciendo y trabajar en equipo.
+
+---
+
+### 💻 Sobre mí
+
+- 🎓 **Formación:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+- 🛠️ **Enfoque actual:** Profundizando en arquitectura Backend con **Java** y la suite de **Spring Framework**.
+- 📍 **Ubicación:** Barcelona
+- 💼 **Búsqueda activa:** Abierto a oportunidades laborales como Desarrollador Java Junior, Backend Developer o Desarrollador Multiplataforma.
+- 📬 **Contacto:** jgsergio03@gmail.com |[ [Enlace a tu LinkedIn]](https://www.linkedin.com/in/sergio-jim%C3%A9nez-galv%C3%A1n/)
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+**Lenguajes & Backend:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Bases de Datos & Persistencia:**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Conceptos de persistencia:** JDBC, JPA, ORM, Consultas complejas y modelado Relacional/NoSQL.
+
+**Entorno & Herramientas de Desarrollo:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
