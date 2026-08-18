@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sergio Jiménez 👋
 
-### Junior Software & Cross-Platform Developer 🚀
+### Junior Software Developer 🚀
 Graduado en el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la programación, el diseño de arquitectura backend sólida y el aprendizaje continuo de nuevas tecnologías. Busco mi primera oportunidad profesional o proyectos donde aportar valor, seguir creciendo y trabajar en equipo.
 
 ---
