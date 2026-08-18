@@ -11,8 +11,7 @@ Graduado en el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (D
 - 🛠️ **Enfoque actual:** Profundizando en arquitectura Backend con **Java** y la suite de **Spring Framework**.
 - 📍 **Ubicación:** Barcelona
 - 💼 **Búsqueda activa:** Abierto a oportunidades laborales como Desarrollador Java Junior, Backend Developer o Desarrollador Multiplataforma.
-- 📬 **Contacto:** jgsergio03@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/sergio-jim%C3%A9nez-galv%C3%A1n/))
-
+- 📬 **Contacto:** jgsergio03@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-jim%C3%A9nez-galv%C3%A1n/)
 ---
 
 ### 🛠️ Tech Stack & Herramientas
