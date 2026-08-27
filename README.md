@@ -8,7 +8,6 @@ Graduado en el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (D
 ### 💻 Sobre mí
 
 - 🎓 **Formación:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
-- 🛠️ **Enfoque actual:** Profundizando en arquitectura Backend con **Java** y la suite de **Spring Framework**.
 - 📍 **Ubicación:** Barcelona
 - 💼 **Búsqueda activa:** Abierto a oportunidades laborales como Desarrollador Java Junior, Backend Developer o Desarrollador Multiplataforma.
 - 📬 **Contacto:** [![Email](https://img.shields.io/badge/EMAIL-jgsergio03%40gmail.com-6e5494?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgsergio03@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-jim%C3%A9nez-galv%C3%A1n/)
